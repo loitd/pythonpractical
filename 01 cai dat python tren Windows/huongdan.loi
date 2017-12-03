@@ -1,0 +1,14 @@
+1. Download python và cài đặt trên Windows
+- URL: https://www.python.org/downloads/
+- Tại sao python 2.x và tương thích ngược
+
+2. Test thử bản cài đặt và sử dụng pip
+- lệnh python
+- lệnh pip
+- cài gói bs4
+- import thử bs4
+
+3. Helloworld
+- tạo file main.py
+- chạy file main.py
+- xem kết quả trên màn hình

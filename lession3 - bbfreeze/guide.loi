@@ -1,0 +1,5 @@
+Install bbfreeze
+install vcforpython27
+conda install -c conda-forge pefile
+pip install -i https://pypi.anaconda.org/pypi/simple bbfreeze
+bbfreeze main.py

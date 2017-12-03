@@ -1,0 +1,2 @@
+conda install -c conda-forge pyinstaller
+pyinstaller --onefile --windowed --icon=app.ico --version-file=vesion.txt main.py

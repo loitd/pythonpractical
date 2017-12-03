@@ -1,0 +1,32 @@
+. Nguyên tắc chung: "Có dao dùng dao, có súng dùng súng. Cảm giác của bạn là quan trọng nhất. Hãy lựa chọn theo cảm giác của bạn!"
+. Các IDE nổi bật sử dụng đối với Python, Ruby, Perl
+	. Pycharm
+	. Sublime Text
+	. Notepad++
+	. MS Visual Studio Express
+	. Bluefish
+	. Comodo IDE
+	. Netbean
+	. Eclipse
+	...
+. Tiêu chí nào cho một IDE?
+	. Ý kiến cá nhân (tầm quan trọng từ cao xuống thấp)
+		. Phải đổi được màu schema, themes hoặc màu schema mặc định phải là màu tối, text dễ nhìn
+		. Hỗ trợ tiếng Việt đầy đủ -> ghi chú thay thế notepad hay notes
+		. Có syntax highlight phong phú
+		. Có hỗ trợ đếm dòng
+		. Build và chạy thử chương trình được
+		. Cài đặt dễ dàng, nhanh, gọn
+		. Thêm plugin dễ dàng và phong phú
+		. Thao tác với cây thư mục ngay tại cửa sổ IDE
+		. Có phiên bản cho càng nhiều HĐH càng tốt
+. Lựa chọn của tôi?
+	. 1. Sublime Text
+	. 2. Notepad++
+	. Lý do?
+		. Các tính năng trên
+		. Tự lưu và không hỏi khi tắt, tự khôi phục khi mở lại
+	. Điểm yếu?
+		. Freemium
+		. Memory killer?
+. Kết luận

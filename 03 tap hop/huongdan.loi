@@ -1,0 +1,17 @@
+List - Dictionary - Tuple
+
+1. Dictionary
+- Dictionary là tập hợp của các phần tử mà mỗi phần tử bao gồm key và value.
+- Một danh bạ với tên contact và thông tin contact
+- Một túi đồ với các đồ được để lộn xộn nhưng đều dán nhãn
+- D = {key1: value1, key2: value2}
+
+1.1. Các đặc tính
+- Có thể khai báo một dictionary rỗng
+- Không có sắp xếp dữ liệu mà phụ thuộc hoàn toàn vào nhãn
+- Key phải là một trường immutable
+
+1.2. Cách sử dụng
+- Truy suất dữ liệu: D[‘key’]
+- Sẽ phát sinh lỗi nếu truy xuất đến một key chưa có trong dictionary
+- Có thể sử dụng toán tử in để kiểm tra xem key đã có trong dictionary chưa: ‘key’ in D
